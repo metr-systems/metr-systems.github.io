@@ -6,7 +6,7 @@ title: Getting away from code comments
 {{ page.title }}
 ================
 
-<p class="meta">21 Jul 2020 - Berlin</p>
+<p class="meta">21 Jul 2020 - Thiago</p>
 
 # Getting away from code comments
 
