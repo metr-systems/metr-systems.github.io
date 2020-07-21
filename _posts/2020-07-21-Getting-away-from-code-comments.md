@@ -8,8 +8,6 @@ title: Getting away from code comments
 
 <p class="meta">21 Jul 2020 - Thiago</p>
 
-# Getting away from code comments
-
 ## Code comments: A topic that people love to hate.
 
 I'm on the side that doesn't like them. Being a Python developer who codes based on The Zen of Python and I specially like the `Readability counts.` part, having comments in the code feels like a trap, a way to disguise bad code readability.
